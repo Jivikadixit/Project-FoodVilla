@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*.header
+{
+    display:flex;
+    justify-content: space-between;
+    margin:10px;
+    border:1px solid black ;
+}
+.nav-items ul
+{
+    list-style-type:none;
+    display:flex;
+    
+}
+.nav-items ul li{
+    padding: 10px;
+    margin:2px
+}
+.logo
+{
+    width:100px;
+}
+/*.body{
+    display: grid;
+    transition: all 0.05s ease 0s;
+    cursor: pointer;
+    gap: 12px;
+    grid-auto-flow: row;
+    justify-content: stretch;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px;
+}*/
+/*.card
+{    
+    width:400px;
+    border:1px solid black;
+    padding:10px;
+   margin:10px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card img{
+    width:400px;
+    height:300px;
+}
+.RestrauntList
+{
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+h2
+{
+    color:blue;
+}
+h3{
+    color: blueviolet;
+}
+h4{
+    color: green;
+ 
+}
+.restaurant-list
+{  
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.shimmer-card
+{
+    width:400px;
+    color:lightgrey;
+    margin:10px;
+}
+*/

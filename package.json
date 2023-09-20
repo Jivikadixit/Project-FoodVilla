@@ -4,11 +4,15 @@
   "description": "",
   "main": "src/FoodVilla.js",
   "browserslist": "> 0.5%, last 2 versions, not dead",
+  "homepage": "https://jivikadixit.github.io/Project-FoodVilla",
+
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
     "build": "parcel build index.html",
-    "watch-test": "jest --watch"
+    "watch-test": "jest --watch",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "author": "jivika dixit",
   "license": "ISC",
